@@ -1,4 +1,5 @@
 # Panier JavaScript
+![image](https://github.com/Anse-dev/Projet-DOM-/assets/67246148/6ba68e10-3d59-49a5-a16d-23edff6edd76)
 
 Ce projet JavaScript est une implémentation d'un panier en ligne où les articles sont pré-sélectionnés. L'utilisateur peut ajuster la quantité de chaque article, supprimer des articles, aimer des articles et voir le prix total ajusté en fonction de la quantité et des suppressions.
 
